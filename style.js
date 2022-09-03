@@ -17,8 +17,3 @@ btn.addEventListener('click', () => {
     }
     
 })
-
-// console.log(btn_icon.querySelector(`svg`).getAttribute('class'))
-
-
-
